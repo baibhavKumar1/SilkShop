@@ -1,0 +1,1445 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034491_491_b?$x1_grid$&v=1671620001",
+            "price": 99,
+            "details": "Men's Cedar Cliff Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"
+        },
+        {
+            "id": 2,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034491_271_b?$x1_grid$&v=1671620001",
+            "price": 109,
+            "details": "Men's Silver Falls Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 3,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034491_491_b?$x1_grid$&v=1671620001",
+            "price": 109,
+            "details": "Men's Silver Falls Jacket- Tall",
+            "category": "jacket",
+            "subcat":"new arrival"
+            
+        },
+        {
+            "id": 4,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034411_742_b?$x1_grid$&v=1671620001",
+            "price": 99,
+            "details": "Men's Cedar Cliff Jacket-Tall",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 5,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034492_039_b_om?$x1_grid$&v=1671620001",
+            "price": 109,
+            "details": "Men's Silver Falls Jacket-Big",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 6,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1988761_010_b?$x1_grid$&v=1671620001",
+            "price": 89,
+            "details": "Men's Tanner Ranch Field Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 7,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1890091_012_b?$x1_grid$&v=1671620001",
+            "price": 80,
+            "details": "Riptide Anorak",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 8,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2037461_011_b?$x1_grid$&v=1671620001",
+            "price": 80,
+            "details": "Men's Coral Ridge Performance Midlayer Half Zip Fleece Pullover",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 9,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2031181_039_b?$x1_grid$&v=1671620001",
+            "price": 65,
+            "details": "Men's Stone Canyon Hoodie",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 10,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2036921_271_f?$x1_grid$&v=1671620001",
+            "price": 180,
+            "details": "Men's Ibex Shell Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 11,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034531_271_b?$x1_grid$&v=1671620001",
+            "price": 160,
+            "details": "Men's Wright Lake Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 12,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034111_660_b?$x1_grid$&v=1671620001",
+            "price": 200,
+            "details": "Men's Coral Ridge Outdry Extreme Rain Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 13,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034501_839_b?$x1_grid$&v=1671620001",
+            "price": 129,
+            "details": "Men's Silver Falls Hooded Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 14,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034413_010_b?$x1_grid$&v=1671620001",
+            "price": 99,
+            "details": "Men's Cedar Cliff Jacket-Big",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 15,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034651_010_b?$x1_grid$&v=1671620001",
+            "price": 180,
+            "details": "Men's Hikebound Interchange Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 16,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034081_839_b?$x1_grid$&v=1671620001",
+            "price": 200,
+            "details": "Men's Discovery Point Shell Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 17,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2031631_010_b?$x1_grid$&v=1671620001",
+            "price": 80,
+            "details": "Men's Endless Trail Wind Shell Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 18,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034521_397_b?$x1_grid$&v=1671620001",
+            "price": 130,
+            "details": "Men's Boundary Springs Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 19,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2034591_010_b?$x1_grid$&v=1671620001",
+            "price": 170,
+            "details": "Men's Spring Canyon Wind Interchange Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 20,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2033041_010_b?$x1_grid$&v=1671620001",
+            "price": 200,
+            "details": "Men's PFG Omni-Tech 3D Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 21,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1978311_671_b?$x1_grid$&v=1671620001",
+            "price": 149,
+            "details": "Women's Suttle Mountain Insulated Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 22,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2007681_010_b?$x1_grid$&v=1671620001",
+            "price": 160,
+            "details": "Women's Joy Peak Mid Omni-Heat Infinity Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 23,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1748311_472_b?$x1_grid$&v=1671620001",
+            "price": 139,
+            "details": "Women's Powder Lite Mid Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 24,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1738161_010_f?$x1_grid$&v=1671620001",
+            "price": 160,
+            "details": "Women's Heavenly Long Hooded Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 25,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1799751_010_f?$x1_grid$&v=1671620001",
+            "price": 159,
+            "details": "Women's Suttle Mountain Long Insulated Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 26,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1819791_191_b?$x1_grid$&v=1671620001",
+            "price": 59.92,
+            "details": "Women's Fire Side Sherpa Full Zip Fleece",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 27,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/WL6439_064_b?$x1_grid$&v=1671620001",
+            "price": 38.92,
+            "details": "Women's Benton Springs Full Zip Fleece Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 28,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1556961_363_f?$x1_grid$&v=1671620001",
+            "price": 44.92,
+            "details": "Women's Benton Springs Long Hoodie",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 29,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2037161_010_f?$x1_grid$&v=1671620001",
+            "price": 44.99,
+            "details": "Women's Holly Park Vest",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 30,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2007581_467_f?$x1_grid$&v=1671620001",
+            "price": 159,
+            "details": "Women's Rosie Run Insulated Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 31,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2001551_432_f?$x1_grid$&v=1671620001",
+            "price": 79.92,
+            "details": "Women's Slope Edge Mid Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 32,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1667431_214_f?$x1_grid$&v=1671620001",
+            "price": 149.99,
+            "details": "Women's Icelandite TurboDown Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 33,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1868491_467_f?$x1_grid$&v=1671620001",
+            "price": 230,
+            "details": "Women's Whirlibird IV Interchange Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 34,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/RL2436_348_f?$x1_grid$&v=1671620001",
+            "price": 69.99,
+            "details": "Women's Arcadia Rain Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 35,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2040501_524_f?$x1_grid$&v=1671620001",
+            "price": 149.99,
+            "details": "Women's Apres Arson Winter Long Down Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 36,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1372112_568_f?$x1_grid$&v=1671620001",
+            "price": 38.92,
+            "details": "Women's Benton Springs Full Zip Plus Size",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 37,
+            "type": "woman",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1959701_010_f?$x1_grid$&v=1671620001",
+            "price": 35.92,
+            "details": "Women's Park View Grid 1/2 Zip Fleece Pullover",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 38,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/WB6760_813_f?$x1_grid$&v=1671620001",
+            "price": 18.91,
+            "details": "Boy's Steens Mountain Fleece Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 39,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1802903_858_b?$x1_grid$&v=1671620001",
+            "price": 84.99,
+            "details": "Boys' Powder Lite Hooded Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 40,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2010771_010_a1?$x1_grid$&v=1671620001",
+            "price": 23.91,
+            "details": "Kids' Whirlibird Ski Gloves",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 41,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/WG6756_576_f2?$x1_grid$&v=1671620001",
+            "price": 18.91,
+            "details": "Girls' Benton Springs Fleece Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 42,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1618281_484_b?$x1_grid$&v=1671620001",
+            "price": 20.92,
+            "details": "Girls' Benton Springs Printed Fleece Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 43,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2010291_271_f?$x1_grid$&v=1671620001",
+            "price": 25.91,
+            "details": "Girls' Fire Side Sherpa Vest",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 44,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1556943_009_b?$x1_grid$&v=1671620001",
+            "price": 14.92,
+            "details": "Girls' Glacial Fleece 1/4 Zip Pullover",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 45,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/SG8394_356_b?$x1_grid$&v=1671620001",
+            "price": 59.99,
+            "details": "Girls' Snowslope Bib",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 46,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1833211_597_f?$x1_grid$&v=1671620001",
+            "price": 29.99,
+            "details": "Girls' Sandy Shores Skort",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 47,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1637871_010_f?$x1_grid$&v=1671620001",
+            "price": 38.92,
+            "details": "Big Kids Powderbug Plus Snow Boot",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 48,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2010781_466_b?$x1_grid$&v=1671620001",
+            "price": 23.91,
+            "details": "Kids' Whirlibird Mittens Gloves",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 49,
+            "type": "kid",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1890701_404_f?$x1_grid$&v=1671620001",
+            "price": 58,
+            "details": "PFG Zigzag 22L Backpack",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 50,
+            "type": "toddler",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1560291_940_b?$x1_grid$&v=1671620001",
+            "price": 22.91,
+            "details": "Toddler Steens Mt Overlay Hoodie",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 51,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/WM3220_021_b?$x1_grid$&v=1671620001",
+            "price": 38.91,
+            "details": "Men's Steens Mountain 2.0 full Zip Fleece Jacket",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 52,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1553511_491_b?$x1_grid$&v=1671620001",
+            "price": 24.98,
+            "details": "Men's Fast Trek III Half Zip Fleece",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 53,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1861681_858_b?$x1_grid$&v=1671620001",
+            "price": 31.91,
+            "details": "Men's Steens Mountain Half snap Fleece Pullover",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 54,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/AM6558_010_b?$x1_grid$&v=1671620001",
+            "price": 35.91,
+            "details": "Men's Kiamath range Half Zip Fleece Pullover",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 55,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1639261_028_b?$x1_grid$&v=1671620001",
+            "price": 29.91,
+            "details": "Men's Steens Mountain Fleece Vest",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 56,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1911181_010_b?$x1_grid$&v=1671620001",
+            "price": 8.92,
+            "details": "Fast Trek II fleece Gaiter",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 57,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/WT3220_271_b?$x1_grid$&v=1671620001",
+            "price": 32.91,
+            "details": "Men's Steens Mountain 2.0 full Zip Fleece Jacket-Tall",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 58,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1862561_010_f?$x1_grid$&v=1671620001",
+            "price": 10.91,
+            "details": "Trail Shaker Headring",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 59,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1862551_023_f?$x1_grid$&v=1671620001",
+            "price": 11.91,
+            "details": "Trail Shaker Omni-Heat Fleece Beanie",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 60,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1625621_804_b?$x1_grid$&v=1671620001",
+            "price": 27.91,
+            "details": "Men's PHG Fleece Jacket",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 61,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2024111_257_b?$x1_grid$&v=1671620001",
+            "price": 38.92,
+            "details": "Men's Overlook Trail Full Zip Jacket",
+            "category": "jacket",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 62,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1955871_023_b?$x1_grid$&v=1671620001",
+            "price": 65.92,
+            "details": "Men's Out-Shield Insulated Full Zip Hoodie",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 63,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2013691_023_b?$x1_grid$&v=1671620001",
+            "price": 69.99,
+            "details": "Men's Rugged Ridge III Sherpa Pullover Hoodie",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 64,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1911211_010_f?$x1_grid$&v=1671620001",
+            "price": 11.98,
+            "details": "Fast Trek II Fleece Scarf",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 65,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1884931_027_b_om?$x1_grid$&v=1671620001",
+            "price": 38.92,
+            "details": "Men's Columbia Logo Fleece Crew",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 66,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1911601_024_b?$x1_grid$&v=1671620001",
+            "price": 32.92,
+            "details": "Men's CSC Logo Fleece Jogger",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 67,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2013451_464_b?$x1_grid$&v=1671620001",
+            "price": 50.92,
+            "details": "Men's Sweater Weather Fleece Pullover",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 68,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1827771_464_f?$x1_grid$&v=1671620001",
+            "price": 13.92,
+            "details": "Men's Fast Trek Fleece hat",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 69,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2013401_397_b?$x1_grid$&v=1671620001",
+            "price": 27.92,
+            "details": "Men's Park View Crew Shirt",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 70,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1802141_220_b?$x1_grid$&v=1671620001",
+            "price": 35.92,
+            "details": "Men's PHG Fleece Overlay 1/4 Zip Pullover",
+            "category": "fleece",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 71,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1746011_049_f2?$x1_grid$&v=1671620001",
+            "price": 130,
+            "details": "Men's Fairbanks Omni=Heat Boot",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 72,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1594731_011_f2?$x1_grid$&v=1671620001",
+            "price": 130,
+            "details": "Men's Newton Ridge Plus Waterproof Hiking Boot",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 73,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1746411_286_f2?$x1_grid$&v=1671620001",
+            "price": 69.99,
+            "details": "Men's Newton Ridge Plus Suede Waterproof Hiking Boot",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 74,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1913121_288_f2?$x1_grid$&v=1671620001",
+            "price": 84.99,
+            "details": "Men's Hyper-Boreal Omni-Heat Tall Boot",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 75,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1672881_033_f2?$x1_grid$&v=1671620001",
+            "price": 99.95,
+            "details": "Men's Firecamp Boot",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 76,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2005101_403_f2?$x1_grid$&v=1671620001",
+            "price": 71.92,
+            "details": "Men's Peakfreak Outdry Shoe",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 77,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1791221_010_f2?$x1_grid$&v=1671620001",
+            "price": 119.95,
+            "details": "Men's Bugaboot Boot",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 78,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2005371_383_f2?$x1_grid$&v=1671620001",
+            "price": 34.98,
+            "details": "Men's Omni-Heat Lazy Bend Moc Slipper",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 79,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2005091_089_f2?$x1_grid$&v=1671620001",
+            "price": 77.92,
+            "details": "Men's Peakfreak Mid OutDry Boot",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 80,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2019671_010_f2?$x1_grid$&v=1671620001",
+            "price": 71.92,
+            "details": "Men's Fairbanks Rover Chelsea Boot",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 81,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1974411_010_f2?$x1_grid$&v=1671620001",
+            "price": 150,
+            "details": "Men's Hyper-Boreal Metro Boot",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 82,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2005091_010_f2?$x1_grid$&v=1671620001",
+            "price": 77.92,
+            "details": "Men's Peakfreak Mid OutDry Boot-Wide",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 83,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1903401_010_f2?$x1_grid$&v=1671620001",
+            "price": 160,
+            "details": "Men's Facet 45 OutDry Shoe",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 84,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1672881_012_f2?$x1_grid$&v=1671620001",
+            "price": 99.95,
+            "details": "Men's Firecamp Boot-Wide",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 85,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1938881_383_f2?$x1_grid$&v=1671620001",
+            "price": 65.92,
+            "details": "Men's Tailstorm Mid Waterproof Shoe",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 86,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1974151_383_f2?$x1_grid$&v=1671620001",
+            "price": 77.98,
+            "details": "Men's Facet 60 Low OutDry Shoe",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 87,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2005101_012_f2?$x1_grid$&v=1671620001",
+            "price": 71.92,
+            "details": "Men's Peakfreak Outdry Shoe-Wide",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 88,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1940591_033_f2?$x1_grid$&v=1671620001",
+            "price": 100,
+            "details": "Men's Redmond III Low Waterproof Shoe",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 89,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1927831_089_f2?$x1_grid$&v=1671620001",
+            "price": 84.95,
+            "details": "Men's Flow District Shoe",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 90,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1987072_010_f2?$x1_grid$&v=1671620001",
+            "price": 53.92,
+            "details": "Men's Plateau - Wide",
+            "category": "shoes",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 91,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM7266_010_b?$x1_grid$&v=1671620001",
+            "price": 22.92,
+            "details": "Men's PFG Tamiami Short Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 92,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM7253_499_b?$x1_grid$&v=1671620001",
+            "price": 27.92,
+            "details": "Men's PFG Tamiami Long Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 93,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM7047_696_b?$x1_grid$&v=1671620001",
+            "price": 26.92,
+            "details": "Men's PFG Bahama Short Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 94,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1577051_010_b?$x1_grid$&v=1671620001",
+            "price": 26.92,
+            "details": "Men's PFG Slack Tide Camp shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 95,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1411621_665_b?$x1_grid$&v=1671620001",
+            "price": 38.92,
+            "details": "Men's Hart Mountain Half Zip Sweatshirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 96,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM7048_010_b?$x1_grid$&v=1671620001",
+            "price": 32.92,
+            "details": "Men's PFG Bahama Long Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 97,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1772051_010_b?$x1_grid$&v=1671620001",
+            "price": 24.92,
+            "details": "Men's Utilizer Polo shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 98,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM6132_020_f?$x1_grid$&v=1671620001",
+            "price": 26.92,
+            "details": "Men's PFG Terminal Tackle Hoodie",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 99,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1990751_023_b?$x1_grid$&v=1671620001",
+            "price": 19.99,
+            "details": "Men's Thistletown Hills Short Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 100,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM7120_873_b?$x1_grid$&v=1671620001",
+            "price": 29.92,
+            "details": "Men's PFG Bonehead Long Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 101,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1011771_505_b?$x1_grid$&v=1671620001",
+            "price": 23.92,
+            "details": "Men's PFG Bonehead Short Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 102,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM7024_487_b?$x1_grid$&v=1671620001",
+            "price": 24.92,
+            "details": "Men's PFG Low Drag Offshore Short Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 103,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM6094_459_b?$x1_grid$&v=1671620001",
+            "price": 23.92,
+            "details": "Men's PFG Terminal Tackle  Long Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 104,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1388263_027_b?$x1_grid$&v=1671620001",
+            "price": 23.92,
+            "details": "Men's PFG Terminal Tackle  Long Sleeve shirt-Tall",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 105,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1011652_337_b?$x1_grid$&v=1671620001",
+            "price": 26.92,
+            "details": "Men's PFG Bahama Short Sleeve shirt-Big",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 106,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1287053_804_b_om?$x1_grid$&v=1671620001",
+            "price": 26.92,
+            "details": "Men's PFG Tamiami Short Sleeve shirt-Big",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 107,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1653761_103_f?$x1_grid$&v=1671620001",
+            "price": 21.92,
+            "details": "Men's PFG Super Slack Tide Camp shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 108,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1559041_011_b?$x1_grid$&v=1671620001",
+            "price": 19.92,
+            "details": "Men's PHG Sharptail Short Sleeve shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 109,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/HYB1328_100_f?$x1_grid$&v=1671620001",
+            "price": 14.92,
+            "details": "Men's PFG Frontier Graphic T-shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 110,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/HYB1351_039_f?$x1_grid$&v=1671620001",
+            "price": 14.99,
+            "details": "Men's Rocky Graphic T-shirt",
+            "category": "shirt",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 111,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1638601_011_b?$x1_grid$&v=1671620001",
+            "price": 55.00,
+            "details": "Men's Omni-Heat Midweight Baselayer Tights",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 112,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1638591_465_b?$x1_grid$&v=1671620001",
+            "price": 55.00,
+            "details": "Men's Omni-Heat Midweight Baselayer Crew",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 113,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2012391_010_b?$x1_grid$&v=1671620001",
+            "price": 65.00,
+            "details": "Men's Omni-Heat Infinity Baselayer Tights",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 114,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2012331_491_b?$x1_grid$&v=1671620001",
+            "price": 65.00,
+            "details": "Men's Omni-Heat Infinity Baselayer Crew",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 115,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2040231_100_b?$x1_grid$&v=1671620001",
+            "price": 25.00,
+            "details": "Men's Midweight Baselayer Crew",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 116,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2013591_464_f?$x1_grid$&v=1671620001",
+            "price": 50.92,
+            "details": "Men's Bliss Ascent Hybrid Pants",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 117,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1638571_613_b?$x1_grid$&v=1671620001",
+            "price": 60.00,
+            "details": "Men's Omni-Heat Midweight Baselayer Half Zip",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 118,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1638593_465_b?$x1_grid$&v=1671620001",
+            "price": 65.00,
+            "details": "Men's Omni-Heat Midweight Baselayer Crew-Big",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 119,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2013441_613_f?$x1_grid$&v=1671620001",
+            "price": 50.92,
+            "details": "Men's Bliss Ascent Quarter Zip Pullover",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 120,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2013431_613_b?$x1_grid$&v=1671620001",
+            "price": 47.92,
+            "details": "Men's Bliss Ascent Long Sleeve Shirt",
+            "category": "tights",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 121,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/AM8004_160_b?$x1_grid$&v=1671620001",
+            "price": 65.00,
+            "details": "Men's Silver Ridge Convertible Pants",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 122,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/AM8007_327_b?$x1_grid$&v=1671620001",
+            "price": 41.91,
+            "details": "Men's Silver Ridge Cargo Pants",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 123,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1996731_010_b?$x1_grid$&v=1671620001",
+            "price": 24.99,
+            "details": "Men's Ten Falls Denim Jeans",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 124,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1864311_257_b?$x1_grid$&v=1671620001",
+            "price": 120.00,
+            "details": "Men's Bugaboo IV Ski Pants",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 125,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1910051_613_b?$x1_grid$&v=1671620001",
+            "price": 140.00,
+            "details": "Men's Powder Stash Pants",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 126,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/AM4084_028_b?$x1_grid$&v=1671620001",
+            "price": 50.00,
+            "details": "Men's Silver Ridge Cargo Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 127,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/FM4009_404_b?$x1_grid$&v=1671620001",
+            "price": 17.48,
+            "details": "Men's PFG Backcast Water Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 128,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2021441_257_f?$x1_grid$&v=1671620001",
+            "price": 22.48,
+            "details": "Men's Millers Creek Cargo Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 129,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2021451_010_b?$x1_grid$&v=1671620001",
+            "price": 60.00,
+            "details": "Men's Iron Mountain Trail Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 130,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/AM4471_243_b?$x1_grid$&v=1671620001",
+            "price": 17.98,
+            "details": "Men's Washed Out Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 131,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1992841_023_f?$x1_grid$&v=1671620001",
+            "price": 55.00,
+            "details": "Men's PFG Skiff Guide Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 132,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1990411_010_b?$x1_grid$&v=1671620001",
+            "price": 34.99,
+            "details": "Men's Columbia Hike Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 133,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1990471_010_b?$x1_grid$&v=1671620001",
+            "price": 65.00,
+            "details": "Men's Maxtrail Lite Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 134,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2033071_019_b?$x1_grid$&v=1671620001",
+            "price": 65.00,
+            "details": "Men's Blood 'N Guts Stretch Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 135,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2030851_010_b?$x1_grid$&v=1671620001",
+            "price": 55.00,
+            "details": "Men's Summerdry Brief Shorts",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 136,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2008141_257_b?$x1_grid$&v=1671620001",
+            "price": 140.00,
+            "details": "Men's Iceventure Ski Bib",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 137,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1978031_010_b?$x1_grid$&v=1671620001",
+            "price": 170.00,
+            "details": "Men's Kick-Turn Omni-Heat Infinity Insulated Pants Pants",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 138,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2040201_010_f?$x1_grid$&v=1671620001",
+            "price": 59.98,
+            "details": "Men's Gulfport Insulated Ski Pants",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 139,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2008591_010_f?$x1_grid$&v=1671620001",
+            "price": 200.00,
+            "details": "Men's Platinum Peak 3L Pants",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 140,
+            "type": "man",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1910053_010_f?$x1_grid$&v=1671620001",
+            "price": 160.00,
+            "details": "Men's Powder Stash Pants-Big",
+            "category": "pants",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 141,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2010711_010_a1?$x1_grid$&v=1671620001",
+            "price": 35.92,
+            "details": "Men's Whirlibird Ski gloves",
+            "category": "gloves",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 142,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1911321_371_f?$x1_grid$&v=1671620001",
+            "price": 13.92,
+            "details": "Whirlibird Cuffed Beanie",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 143,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1862551_023_f?$x1_grid$&v=1671620001",
+            "price": 11.92,
+            "details": "Trail Shaker Omni-Heat Fleece Beanie",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 144,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/CU9489_034_f?$x1_grid$&v=1671620001",
+            "price": 14.99,
+            "details": "Infinity Trail Omni-Heat Infinity Beanie",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 145,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1982001_639_f?$x1_grid$&v=1671620001",
+            "price": 17.92,
+            "details": "Columbia Mesh Ball Cap",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 146,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2010861_010_b?$x1_grid$&v=1671620001",
+            "price": 20.92,
+            "details": "PHG Logo Mesh Snap Back - High Crown",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 147,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/CU9107_365_b?$x1_grid$&v=1671620001",
+            "price": 17.92,
+            "details": "Bora Bora Booney",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 148,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1993111_010_f?$x1_grid$&v=1671620001",
+            "price": 10.92,
+            "details": "PFG Beanie",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 149,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2010911_900_f?$x1_grid$&v=1671620001",
+            "price": 26.92,
+            "details": "PHG Trophy Rack Silent Rain Booney Hat",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 150,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1836813_010_f?$x1_grid$&v=1671620001",
+            "price": 17.92,
+            "details": "PFG Fish Flag Mesh Ball Cap - Low Crown",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 151,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2032431_121_f?$x1_grid$&v=1671620001",
+            "price": 30.00,
+            "details": "PFG Straw Lifeguard Hat",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 152,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1714811_804_b?$x1_grid$&v=1671620001",
+            "price": 17.92,
+            "details": "PFG Logo Mesh Snapback -High Crown",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 153,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1993031_012_b?$x1_grid$&v=1671620001",
+            "price": 17.92,
+            "details": "PFG Patch Mesh Snapback - High Crown",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 154,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1836811_696_b?$x1_grid$&v=1671620001",
+            "price": 17.92,
+            "details": "PFG Fish Flag Mesh Ball Cap - High Crown",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 155,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/CU9309_014_f?$x1_grid$&v=1671620001",
+            "price": 11.92,
+            "details": "Whirlibird Beanie",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 156,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1934351_024_b?$x1_grid$&v=1671620001",
+            "price": 17.92,
+            "details": "PFG Trucker Snap Back",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 157,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1682201_010_f?$x1_grid$&v=1671620001",
+            "price": 9.92,
+            "details": "Ale Creek Beanie",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 158,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1979861_101_a1?$x1_grid$&v=1671620001",
+            "price": 20.92,
+            "details": "Polar Powder Omni-Heat Infinity Beanie",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 159,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/CS9495_487_b?$x1_grid$&v=1671620001",
+            "price": 17.92,
+            "details": "PFG Patch Mesh Ball Cap - Mid Crown",
+            "category": "hat",
+            "subcat":"new arrival"   
+        },
+        {
+            "id": 160,
+            "type": "accessories",
+            "img": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2010711_010_a1?$x1_grid$&v=1671620001",
+            "price": 26.92,
+            "details": "Titanium Balaclava",
+            "category": "hat",
+            "subcat":"new arrival"   
+        }
+    ]
+}

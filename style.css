@@ -1,0 +1,281 @@
+*{
+  font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+}
+
+button{
+  padding:10px 20px 10px 20px;
+  background-color: black;
+  color:white;
+}
+#first{
+    display: flex;
+    align-items: center;
+    height: 67px;
+    background-color: rgb(85, 82, 82);
+}
+#navd {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+#navd>div>div,input{
+  height : 50px
+}
+#columbia{
+background-color: #007AB8;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+#bg{
+    background: url(./bluebg.svg);
+    height: 652px;
+}
+.container {
+  position: relative;
+}
+
+.top {
+  width:40%;
+  position: absolute;
+  top:10%;
+  left: 5%;
+  font-size: 30px;
+  color:white;
+}
+.dropbtn {
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1; 
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: flex;}
+
+li{
+  list-style-type: none;
+  margin-bottom: 2px;
+}
+#first{
+  display: flex;
+}
+#flex{
+  display: flex;
+}
+#flexfirst{
+  min-width: fit-content;
+  margin: 20px;
+}
+#phone{
+  border:1px solid green;
+  width: fit-content;
+}
+#grid{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+}
+#second{
+  margin-top: 50px;
+  text-align: center;
+}
+#second>div{
+  display: none;
+}
+#third{
+  width:90%;
+  margin: auto;
+}
+#third>div{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+#third>div> div{
+font-size: 20px;
+}
+#fourth{
+  margin-top: 50px;
+  text-align: center;
+}
+#fourth button{
+  padding: 10px;
+  background-color: black;
+  color:white;
+}
+#fifth{
+  margin-top: 50px;
+  
+}
+#fifth img{
+  display: block;
+  margin:auto;
+}
+#sixth{
+  text-align: center;
+  padding: 50px;
+}
+#seventh {
+  position: relative;
+  width: 90%;
+  margin: auto;
+}
+.bottom-left {
+  position: absolute;
+  bottom:1%;
+  left: 2%;
+  color:WHITE;
+}
+#half{
+  display: flex;
+  width: 90%;
+  margin: auto;
+  gap:1% 1%;
+  margin-top: 10px;
+}
+#eighth{
+  width:90%;
+  margin: auto;
+  margin-top: 100px;
+}
+#eighth>div{
+display: flex;
+justify-content: space-between;
+}
+#ninth{
+  text-align: center;
+  margin-top: 100px;
+}
+#ninth >h1{
+  color: #007AB8;
+  font-weight: 900;
+  font-size: 50px;
+}
+#tenth{
+  width: 95%;
+  margin: auto;
+}
+#tenth > div{
+  display: flex;
+  justify-content: space-between;
+}
+#tenth>div>div>img{
+  width:100%;
+  
+}
+#tenth h4{
+  color: red;
+}
+#tenth s{
+  color: #000;
+}
+#twelfth{
+   width: 90%;
+   margin: auto;
+   margin-top: 50px;
+}
+#twelfth>div{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+#thirteenth{
+  text-align: center;
+  background-color: #333333;
+  padding-top: 50px;
+  color:#fff;
+}
+#fourteenth{
+  display: flex;
+  justify-content: space-between;
+  background-color: #333333;
+  padding: 50px;
+}
+#f .fa{
+  color: black;
+  text-align: center;
+}
+#f div{
+  background-color: rgb(147, 134, 134);
+  padding: 10px 10px 10px 10px;
+}
+#f{
+  display: flex;
+  align-items: center;
+  background-color: rgb(76, 72, 72);
+  height: 53px;
+
+}
+#b,#g{
+  display: flex;
+  justify-content: space-between;
+  
+  color: white;
+}
+#e,#c a,#d a{
+  
+  color: white;
+}
+#d{
+  margin-left: 100px;
+}
+#fifteenth{
+  background-color: #333333;
+  padding: 50px;
+  color: white;
+  
+}
+#fifteenth a{
+  text-decoration: none;
+  color: #fff;gap:10px;
+}
+#product-container{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 15px;
+}
+#product-container img{
+  width:100%;
+}
+#product-container>div{
+  width: 100%;
+  padding: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#activityfirst{
+  width: 90%;
+  display: flex;
+  margin: auto;
+  text-align: center;
+}
+#activityfirst>div img{
+  width: 60%;
+}
+.sidepic>div:nth-child(1){
+  width: 350px;
+  max-height:fit-content
+}
